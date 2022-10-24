@@ -1,0 +1,22 @@
+.input {
+  font-size: 1.2rem;
+  font-family: sans-serif;
+  color: black;
+  display: flex;
+  width: fit-content;
+  gap: 0.5rem;
+  flex-direction: column;
+}
+
+.input input {
+  padding: 0.5rem 0.2rem;
+  border-color: rgb(133, 133, 255);
+  border-radius: 11px;
+  width: 25rem;
+  font-size: 1.2rem;
+}
+
+.input label {
+  margin: 0 0.2rem;
+  align-self: flex-start;
+}

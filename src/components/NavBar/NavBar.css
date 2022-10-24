@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: rgba(80, 77, 77, 0.096);
+}
+
+.logo {
+  height: 6rem;
+  width: 6rem;
+}
+
+.logo img {
+  height: 100%;
+  width: 100%;
+}
+
+.btns {
+  display: flex;
+  gap: 2rem;
+}
